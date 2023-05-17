@@ -1,3 +1,3 @@
 # Example
 
-A great repo
+A great repo.
